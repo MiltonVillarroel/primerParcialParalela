@@ -1,0 +1,44 @@
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.deps.json
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfo.cs
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\refint\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\ref\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.deps.json
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfo.cs
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\refint\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\ref\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.deps.json
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\bin\Debug\net7.0\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfoInputs.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfo.cs
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\refint\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\Operaciones\obj\Debug\net7.0\ref\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\bin\Debug\net7.0\Operaciones.deps.json
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\bin\Debug\net7.0\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\bin\Debug\net7.0\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfoInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.AssemblyInfo.cs
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\refint\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\Operaciones\obj\Debug\net7.0\ref\Operaciones.dll

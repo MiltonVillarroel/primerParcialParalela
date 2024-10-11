@@ -1,0 +1,10 @@
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\08 - Calculadora Web Service.csproj.AssemblyReference.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\_08___Calculadora_Web_Service.Form1.resources
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\_08___Calculadora_Web_Service.Properties.Resources.resources
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\08 - Calculadora Web Service.csproj.GenerateResource.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\08 - Calculadora Web Service.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\bin\Debug\08 - Calculadora Web Service.exe.config
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\bin\Debug\08 - Calculadora Web Service.exe
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\bin\Debug\08 - Calculadora Web Service.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\08 - Calculadora Web Service.exe
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\08 - Calculadora Web Service\08 - Calculadora Web Service\obj\Debug\08 - Calculadora Web Service.pdb

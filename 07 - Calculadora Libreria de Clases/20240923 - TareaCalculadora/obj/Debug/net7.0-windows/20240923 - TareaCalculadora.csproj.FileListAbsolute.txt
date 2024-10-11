@@ -1,0 +1,80 @@
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.exe
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.deps.json
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.runtimeconfig.json
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\_20240923___TareaCalculadora.Form1.resources
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.GenerateResource.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfo.cs
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\refint\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.genruntimeconfig.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\ref\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Milton\OneDrive\Desktop\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CopyComplete
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.exe
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.deps.json
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.runtimeconfig.json
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\_20240923___TareaCalculadora.Form1.resources
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.GenerateResource.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfo.cs
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CopyComplete
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\refint\20240923 - TareaCalculadora.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.genruntimeconfig.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\ref\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.exe
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.deps.json
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.runtimeconfig.json
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.AssemblyReference.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\_20240923___TareaCalculadora.Form1.resources
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.GenerateResource.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfoInputs.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfo.cs
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923.D7F66BE3.Up2Date
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\refint\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.genruntimeconfig.cache
+D:\Programacion Paralela y Distribuida\20240923 - TareaCalculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\ref\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.exe
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.deps.json
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.runtimeconfig.json
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\bin\Debug\net7.0-windows\Operaciones.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.AssemblyReference.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\_20240923___TareaCalculadora.Form1.resources
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.GenerateResource.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfoInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.AssemblyInfo.cs
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923.D7F66BE3.Up2Date
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\refint\20240923 - TareaCalculadora.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\20240923 - TareaCalculadora.genruntimeconfig.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\07 - Calculadora\20240923 - TareaCalculadora\obj\Debug\net7.0-windows\ref\20240923 - TareaCalculadora.dll

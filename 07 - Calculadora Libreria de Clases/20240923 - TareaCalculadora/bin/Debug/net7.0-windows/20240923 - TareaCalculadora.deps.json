@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "20240923 - TareaCalculadora/1.0.0": {
+        "dependencies": {
+          "Operaciones": "1.0.0"
+        },
+        "runtime": {
+          "20240923 - TareaCalculadora.dll": {}
+        }
+      },
+      "Operaciones/1.0.0": {
+        "runtime": {
+          "Operaciones.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20240923 - TareaCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

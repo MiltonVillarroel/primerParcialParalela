@@ -1,0 +1,32 @@
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.exe
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.deps.json
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.runtimeconfig.json
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\_9___Deteccion_de_Bordes.Form1.resources
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.csproj.GenerateResource.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.AssemblyInfoInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.AssemblyInfo.cs
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.csproj.CoreCompileInputs.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\refint\9 - Deteccion de Bordes.dll
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.pdb
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.genruntimeconfig.cache
+C:\Users\Milton\OneDrive\Desktop\Programacion Paralela y Distribuida\20241007-primerExamen\9 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\ref\9 - Deteccion de Bordes.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.exe
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.deps.json
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.runtimeconfig.json
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\bin\Debug\net7.0-windows\9 - Deteccion de Bordes.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\_9___Deteccion_de_Bordes.Form1.resources
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.csproj.GenerateResource.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.AssemblyInfoInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.AssemblyInfo.cs
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.csproj.CoreCompileInputs.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\refint\9 - Deteccion de Bordes.dll
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.pdb
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\9 - Deteccion de Bordes.genruntimeconfig.cache
+D:\Programacion Paralela y Distribuida\20241007-primerExamen\09 - Deteccion de Bordes\9 - Deteccion de Bordes\obj\Debug\net7.0-windows\ref\9 - Deteccion de Bordes.dll
